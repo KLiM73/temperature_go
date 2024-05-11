@@ -1,0 +1,5 @@
+.idea/
+database.db
+temperature_go_arm64
+.env
+.env*
